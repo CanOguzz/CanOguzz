@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+⚡I'm Can, a newly graduated computer engineer who previously worked in the computer games industry.
 <!--
 **CanOguzz/CanOguzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
